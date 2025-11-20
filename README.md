@@ -33,9 +33,6 @@ Cybersecurity leader and retired U.S. Marine with 20 years of experience in info
 
 ## 👨‍💻 Projects and Labs👨‍💻
 
-### Secure Access with Azure Active Directory
 
-* **[Secure Access with Azure Active Directory](https://github.com/GIJane11226/Azure-Active-Directory)**
-* **[DoD Cyber Sentinel Challenge 2025 Recap]( https://github.com/GIJane11226/DoD-Cyber-Sentinel-Challenge-2025)**
 
     
